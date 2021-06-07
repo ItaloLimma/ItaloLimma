@@ -3,9 +3,9 @@
 Me chamo Italo, sou Brasileiro, buscando sempre meu espaço como programador, mantenho uma rotina de estudos, me especializando a cada dia para chegar a niveis mais elevados, sou amante da tecnologia e gosto de criar e entender como as aplicações e site são construidos. :man_technologist:
 
 ### Contato :computer: :iphone:
-<a href="https://linkedin.com/in/italo-lima-a1591b189" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" widht="30" height="40" style="max-widht:100%;"></img></a>
-<a href="" target="_blank"><img src="https://img-premium.flaticon.com/png/512/733/733614.png?token=exp=1623077273~hmac=67815f6c9effc2ff6d951e1dca6c5bde" widht="30" height="40" style="max-widht:100%;"></img></a>
-<a href="https://discord.com/channels/@me" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png" widht="30" height="40" style="max-widht:100%;"></img></a>
+<a href="https://linkedin.com/in/italo-lima-a1591b189"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" widht="30" height="40" style="max-widht:100%;"></img></a>
+<a href=""><img src="https://img-premium.flaticon.com/png/512/733/733614.png?token=exp=1623077273~hmac=67815f6c9effc2ff6d951e1dca6c5bde" widht="30" height="40" style="max-widht:100%;"></img></a>
+<a href="https://discord.com/channels/@me"><img src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png" widht="30" height="40" style="max-widht:100%;"></img></a>
 
 ## Skills & Tools
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" widht="30" height="40" style="max-widht:100%;"></img>

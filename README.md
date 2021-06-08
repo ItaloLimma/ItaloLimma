@@ -3,9 +3,9 @@
 Me chamo Italo, sou Brasileiro, buscando sempre meu espaço como programador, mantenho uma rotina de estudos, me especializando a cada dia para chegar a niveis mais elevados, sou amante da tecnologia e gosto de criar e entender como as aplicações e sites são construidos. :man_technologist:
 
 ### Contato :computer: :iphone:
-<a href="https://www.linkedin.com/in/italo-lima-a1591b189/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" widht="30" height="30" style="max-widht:100%;"></img></a> &nbsp;
-<a href="https://discord.com/channels/@ItaloLima#6756"><img src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png" widht="30" height="30" style="max-widht:100%;"></img></a> &nbsp;
-<a href=""><img src="https://image.flaticon.com/icons/png/512/3518/3518229.png" widht="30" height="30" style="max-widht:100%;"></img></a> &nbsp;
+<a href="https://www.linkedin.com/in/italo-lima-a1591b189/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" widht="30" height="30" style="max-widht:100%;"></img></a> &nbsp;
+<a href="https://discord.com/channels/@ItaloLima#6756" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png" widht="30" height="30" style="max-widht:100%;"></img></a> &nbsp;
+<a href="" target="_blank">![website](https://img.shields.io/badge/-Website-red?style=for-the-badge)</a> &nbsp;
 
 ## Skills & Tools
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" widht="30" height="30" style="max-widht:100%;"></img> &nbsp;

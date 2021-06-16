@@ -1,6 +1,6 @@
 ## Hello World! :smile:
 
-Me chamo Italo, sou Recife/PE, buscando sempre meu espaço como programador, mantenho uma rotina de estudos, me especializando a cada dia para chegar a niveis mais elevados, sou amante da tecnologia e gosto de criar e entender como as aplicações e sites são construidos. :man_technologist:
+Me chamo Italo, sou de Recife/PE, buscando sempre meu espaço como programador, mantenho uma rotina de estudos, me especializando a cada dia para chegar a niveis mais elevados, sou amante da tecnologia e gosto de criar e entender como as aplicações e sites são construidos. :man_technologist:
 
 ### Contato :computer: :iphone:
 <a href="https://www.linkedin.com/in/italo-lima-a1591b189/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" widht="30" height="30" style="max-widht:100%;"></img></a> &nbsp;
